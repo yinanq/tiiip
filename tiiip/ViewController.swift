@@ -51,7 +51,7 @@ class ViewController: UIViewController {
     @IBAction func onEditingDidBegin(sender: AnyObject) {
         print("tapped billField")
         //animate:
-//        self.groupayView.center = CGPoint(x:187.5, y:475)
+//        self.groupayView.center = CGPoint(x:187.5, y:482)
         UIView.animateWithDuration(0.5, animations: {
             self.groupayView.alpha = 0
 //            self.groupayView.center = CGPoint(x:187.5, y:1000)
