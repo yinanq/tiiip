@@ -1,7 +1,7 @@
 # tiiip: a tip calculator app. prework for applying for iOS(Swfit) for Designers class by CodePath.
 
 How many hours did it take me to complete?
-9:30 (1:45 for required stories, 7:45 for optional stories and other stories i added myself).
+- 9:30 (1:45 for required stories, 7:45 for optional stories and other stories i added myself).
 
 Which stories have i completed?
 
@@ -25,6 +25,7 @@ Which stories have i tried to but couldn't complete?
 - SF fonts (installed) not in Attributes inspector fonts when text is set to "Plain", only appear when text is set to "Attributed".
 
 Thanks:
+
 http://stackoverflow.com/questions/7525437/how-to-set-focus-to-a-textfield-in-iphone
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/#//apple_ref/occ/instp/UIView/center
 https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CGGeometry/index.html#//apple_ref/swift/struct/c:@S@CGPoint
@@ -32,4 +33,5 @@ http://stackoverflow.com/questions/32695893/x-code-7-0-the-launch-image-set-laun
 
 
 GIF walkthrough (using LiceCap):
-https://cloud.githubusercontent.com/assets/14037687/12077733/5ef48536-b1a8-11e5-8bb3-8d0b2b115680.gif
+
+![tiiip](https://cloud.githubusercontent.com/assets/14037687/12077733/5ef48536-b1a8-11e5-8bb3-8d0b2b115680.gif)
