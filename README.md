@@ -27,8 +27,11 @@ Which stories have i tried to but couldn't complete?
 Thanks:
 
 http://stackoverflow.com/questions/7525437/how-to-set-focus-to-a-textfield-in-iphone
+
 https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/#//apple_ref/occ/instp/UIView/center
+
 https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CGGeometry/index.html#//apple_ref/swift/struct/c:@S@CGPoint
+
 http://stackoverflow.com/questions/32695893/x-code-7-0-the-launch-image-set-launchimage-has-2-unassigned-children
 
 
