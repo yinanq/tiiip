@@ -43,7 +43,7 @@ Which stories have i tried to but couldn't complete?
 
 GIF walkthrough (using LiceCap):
 
-![tiiip](https://cloud.githubusercontent.com/assets/14037687/12077733/5ef48536-b1a8-11e5-8bb3-8d0b2b115680.gif)
+![tiiip](https://cloud.githubusercontent.com/assets/14037687/12080954/9a423e76-b220-11e5-859d-dd53e3a4cd3e.gif)
 
 .
 
