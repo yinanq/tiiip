@@ -25,9 +25,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        NSNotificationCenter.defaultCenter().addObserver(self, selector: "loadKeyboard:", name:"loadKeyboard", object: nil)
         
-        billField.becomeFirstResponder()
+//        billField.becomeFirstResponder()
         
         tipLabel.text = "$0.00"
         totalLabel.text = "$0.00"
@@ -101,5 +101,10 @@ class ViewController: UIViewController {
             self.groupayView.center = CGPoint(x:187.5,y:482)
         })
     }
+    
+    @objc func loadKeyboard(notification: NSNotification){
+        billField.becomeFirstResponder()
+    }
+    
 }
 
